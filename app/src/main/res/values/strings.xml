@@ -12,4 +12,8 @@
     <string name="password_hint">Password</string>
     <string name="terms_and_conditions">Agree with Terms &amp; Conditions</string>
     <string name="create_account">Create account</string>
+    <string name="dialog_title">Registration Details</string>
+    <string name="dialog_message">Username: %1$s\nName: %2$s\nCountry: %3$s\nEmail: %4$s\nPhone: %5$s\nPassword: %6$s\nGender: %7$s\nTerms Accepted: %8$s</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
 </resources>
