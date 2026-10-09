@@ -1,13 +1,15 @@
 <resources>
     <string name="app_name">FirstForm</string>
-    <string name="gender_male">Male</string>
-    <string name="gender_female">Female</string>
-    <string name="gender_text">Gender</string>
+    <string name="title">Registration form</string>
     <string name="username_hint">Username</string>
     <string name="fullname_hint">Full name</string>
     <string name="country_hint">Country</string>
     <string name="email_hint">Email</string>
     <string name="phone_hint">Phone number</string>
+    <string name="gender_text">Gender</string>
+    <string name="gender_male">Male</string>
+    <string name="gender_female">Female</string>
     <string name="password_hint">Password</string>
-    <string name="title">Registration form</string>
+    <string name="terms_and_conditions">Agree with Terms &amp; Conditions</string>
+    <string name="create_account">Create account</string>
 </resources>
